@@ -1,0 +1,2 @@
+# WP-WhatOthersAreSaying
+This plugin allows you to display the most recent post of your favourite blogs somewhere on your site.  It utilises the RSS link field from the blogroll for each of your links. If the RSS link exists it attempts to get the last post from it.  It then displays the most recent X number of posts depending on your settings. Each blog can have one post in the list.  Why have a boring list of links when you can display each person’s last post on that list?
